@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🎓 I am a research assistant at [DDE Lab](https://dde.binghamton.edu/) at Binghamton University
+- 👨‍🏫 I authored and instructed course on [embedding programming on STM32](https://github.com/edosedgar/stm32f0_ARM)
+- 🖥️ I am interested in image processing, deep learning, media forensics, computer security
