@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🎓 I am a research assistant at [DDE Lab](https://dde.binghamton.edu/) at Binghamton University
+- 🎓 I am a research assistant at [DDE Lab](https://dde.binghamton.edu/) at State University of New York at Binghamton
 - 👨‍🏫 I authored and instructed course on [embedding programming on STM32](https://github.com/edosedgar/stm32f0_ARM)
 - 🖥️ I am interested in image processing, deep learning, media forensics, computer security
