@@ -2,6 +2,7 @@
 
 - 🎓 I am a research assistant at [DDE Lab](https://dde.binghamton.edu/), SUNY Binghamton, focusing on steganography and steganalysis
 - 👨‍🏫 I authored and instructed course on [embedded programming on STM32](https://github.com/edosedgar/stm32f0_ARM)
+- 👊 I [hacked](https://github.com/edosedgar/mtcnnattack) one of the most robust face detection systems MTCNN
 - 🖥️ I am interested in image processing, deep learning, media forensics, computer security
 
 ### Competitions ⚡
