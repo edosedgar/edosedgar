@@ -10,3 +10,7 @@
 - 🤖 Eurobot 2019 (second place): designed robot [firmware](https://github.com/edosedgar/eurobot2019) and managed DL-based computer vision
 - 🤙 CTF [ReverseCUP 2019](http://cup19.reverseboom.club/sb.asp) (first place): solved the majority of reverse-engineering and steganography challenges
 - 🏭 ProHack 4.0 (first place): implemented a computer vision algorithm for pipeline failure detection
+
+### Fun facts 🧩
+- 🐬 Flipper Zero enthusiast: hacked my car by intercepting keyfob signal
+- 📡 SDR radio fan: pushing limits of RTL-SDR dongle
