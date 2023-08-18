@@ -15,6 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🎓 I am a research assistant at [DDE Lab](https://dde.binghamton.edu/) at State University of New York at Binghamton
-- 👨‍🏫 I authored and instructed course on [embedding programming on STM32](https://github.com/edosedgar/stm32f0_ARM)
+- 🎓 I am a research assistant at [DDE Lab](https://dde.binghamton.edu/), SUNY Binghamton, focusing on steganography and steganalysis
+- 👨‍🏫 I authored and instructed course on [embedded programming on STM32](https://github.com/edosedgar/stm32f0_ARM)
 - 🖥️ I am interested in image processing, deep learning, media forensics, computer security
+
+Competitions I won:
+- HackBU 2023 (second place + Best Hack and Best Secutiry Hack awards): [enhanced DRM system for streaming platforms](https://devpost.com/software/drm-on-steroids)
+- International robotics competition Eurobot 2019 (second place): developed the [firmware](https://github.com/edosedgar/eurobot2019) of the robot hardware and DL-based computer vision part
+- CTF [ReverseCUP 2019](http://cup19.reverseboom.club/sb.asp) (first place): solved most of the reverse-engineering and steganography problems
+- ProHack 4.0 (first place): introduced computer vision algoithm to detect failures on the pipeline
