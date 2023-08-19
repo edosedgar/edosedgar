@@ -11,6 +11,6 @@
 - 🤙 CTF [ReverseCUP 2019](http://cup19.reverseboom.club/sb.asp) (first place): solved the majority of reverse-engineering and steganography challenges
 - 🏭 ProHack 4.0 (first place): implemented a computer vision algorithm for pipeline failure detection
 
-### Fun facts 🧩
-- 🐬 Flipper Zero enthusiast: hacked my car by intercepting keyfob signal
-- 📡 SDR radio fan: pushing limits of RTL-SDR dongle
+### Fun projects 🧩
+- 🐬 Sometimes hacking my car keyfob with Flipper Zero
+- 📡 Like pushing limits of RTL-SDR dongle
