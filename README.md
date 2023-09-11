@@ -7,7 +7,7 @@
 ### Competitions ⚡
 - 🥈 HackBU 2023 (+ Best Hack & Best Security Hack awards): improved [DRM system](https://devpost.com/software/drm-on-steroids) for streaming platforms
 - 🥈 Eurobot 2019: designed robot [firmware](https://github.com/edosedgar/eurobot2019) and managed DL-based computer vision
-- 🥇 CTF [ReverseCUP 2019](http://cup19.reverseboom.club/sb.asp): solved the majority of reverse-engineering and steganography challenges
+- 🥇 CTF ReverseCUP 2019: solved the majority of reverse-engineering and steganography challenges
 - 🥇 ProHack 4.0: implemented a computer vision algorithm for pipeline failure detection
 
 ### Fun projects 🧩
